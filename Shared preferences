@@ -1,5 +1,5 @@
 shared prefernces package:
-=>API to save and retrieve primitive data types such as strings, integers, booleans, and floats
+=>simple API to save and retrieve primitive data types such as strings, integers, booleans, and floats
 =>suitable for storing small amounts of data
 =>fast because data is stored asynchronously in-memory
 =>uses native platform capabilities (like NSUserDefaults on iOS and SharedPreferences on Android)
